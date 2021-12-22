@@ -1,4 +1,4 @@
-|Completed studies|Author
+|Title|Author
 |---|---|
 [Django Crash Course](https://www.scribd.com/document/459262375/Daniel-Roy-Greenfield-Audrey-Roy-Greenfield-Django-Crash-Course-2020-pdf)|Daniel Feldroy and Audrey Feldroy|
 [Extreme Programming](http://www.extremeprogramming.org/index.html)|Don Wells|
