@@ -8,7 +8,7 @@
 [The Pragmatic Programmer](https://github.com/PegasusWang/books-1/raw/master/software-development/The%20Pragmatic%20Programmer.pdf)|Andy Hunt and Dave Thomas|
 [Two Scoops of Django](https://www.feldroy.com/books/two-scoops-of-django-3-x)|Daniel Roy Greenfeld and Audrey Roy Greenfeld|
 [Learn Git Branching](https://learngitbranching.js.org)|github.com/pcottle|
-
+[Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) | John Smilga |
 
 ## Stand By:
 
