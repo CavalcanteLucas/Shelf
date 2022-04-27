@@ -9,7 +9,7 @@
 [Two Scoops of Django](https://www.feldroy.com/books/two-scoops-of-django-3-x)|Daniel Roy Greenfeld and Audrey Roy Greenfeld|
 [Learn Git Branching](https://learngitbranching.js.org)|github.com/pcottle|
 [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) | John Smilga |
-[AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org)
+[AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | Andrew Brown |
 
 ## Stand By:
 
