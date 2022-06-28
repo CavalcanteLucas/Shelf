@@ -6,7 +6,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Progress|
 |:---|---:|
-| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![_](https://progress-bar.dev/93/?title=ep.131\/140-1:44:22&color=babaca&width=120) |
+| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![_](https://progress-bar.dev/93/?title=ep.131\/140-1:36:06&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/45/?title=pg.320\/711&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/43/?title=7:57:46\/18:40:43&color=babaca&width=120) |
 |**Queue**||
