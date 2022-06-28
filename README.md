@@ -1,8 +1,6 @@
 # Lucas' Shelf
 
-```bash
-Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
-```
+Shelf for studies on software development that are worth keeping and sharing.
 
 ## Current Studies
 
@@ -20,7 +18,7 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 ## Completed Studies
 
 |Title|Author
-|---|---|
+|:---|:---|
 [The Pragmatic Programmer](https://github.com/PegasusWang/books-1/raw/master/software-development/The%20Pragmatic%20Programmer.pdf)|Andy Hunt and Dave Thomas|
 [Extreme Programming](http://www.extremeprogramming.org/index.html)|Don Wells|
 [Learn Git Branching](https://learngitbranching.js.org)|github.com/pcottle|
@@ -36,7 +34,13 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 ## Latest Blog Posts
 
 | Title |
-|---|
+|:---|
 |[Sustainable notifications with react-redux-api-tools](https://labcodes.com.br/blog/en-us/development/messaging-with-react-redux-api-tools/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 1](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-1/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 2](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-2/)|
+
+---
+
+```bash
+Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
+```
