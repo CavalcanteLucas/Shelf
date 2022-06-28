@@ -9,7 +9,6 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 |Title|Progress|
 |:---|---:|
 | [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) | ![_](https://progress-bar.dev/91/?title=ep.128\/140-2:00:57&color=babaca&width=120) |
-| [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | ![_](https://progress-bar.dev/94/?title=5:07:03\/5:26:45&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/45/?title=pg.320\/711&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/43/?title=7:57:46\/18:40:43&color=babaca&width=120) |
 |**Queue**||
@@ -30,6 +29,7 @@ Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 [Two Scoops of Django](https://www.feldroy.com/books/two-scoops-of-django-3-x)|Daniel Roy Greenfeld and Audrey Roy Greenfeld|
 [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) | John Smilga |
 [Understanding JavaScript Promises](https://cdn.xgqfrms.xyz/promise/understanding-javascript-promises.pdf) | Nicholas C. Zakas |
+[Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | Shawn Powers |
 [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | Andrew Brown |
 [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | Bill Laboon |
 
