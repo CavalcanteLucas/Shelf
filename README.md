@@ -6,9 +6,9 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Progress|
 |:---|---:|
-| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/48/?title=pg.344\/711&color=babaca&width=120) |
-| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/44/?title=08:09:07\/18:40:43&color=babaca&width=120) |
-| [Deno Course](https://www.youtube.com/watch?v=TQUy8ENesGY&ab_channel=freeCodeCamp.org) | ![_](https://progress-bar.dev/14/?title=00:56:48\/6:23:06&color=babaca&width=120) |
+| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/50/?title=pg.356\/711&color=babaca&width=120) |
+| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/44/?title=08:19:07\/18:40:43&color=babaca&width=120) |
+| [Deno Course](https://www.youtube.com/watch?v=TQUy8ENesGY&ab_channel=freeCodeCamp.org) | ![_](https://progress-bar.dev/17/?title=01:06:50\/6:23:06&color=babaca&width=120) |
 |**Queue**||
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
 | [The Complete Guide for AWS CLI](https://www.youtube.com/watch?v=PWAnY-w1SGQ&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:00:59&color=babaca&width=120) |
