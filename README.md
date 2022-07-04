@@ -6,7 +6,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Progress|
 |:---|---:|
-| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/52/?title=pg.373\/711&color=babaca&width=120) |
+| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/54/?title=pg.385\/711&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/48/?title=09:00:25\/18:40:43&color=babaca&width=120) |
 | [Deno Course](https://www.youtube.com/watch?v=TQUy8ENesGY&ab_channel=freeCodeCamp.org) | ![_](https://progress-bar.dev/17/?title=01:06:50\/6:23:06&color=babaca&width=120) |
 |**Queue**||
