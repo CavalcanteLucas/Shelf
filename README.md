@@ -8,12 +8,15 @@ Shelf for studies on software development that are worth keeping and sharing.
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/54/?title=pg.385\/711&color=babaca&width=120) |
 | [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/48/?title=09:00:25\/18:40:43&color=babaca&width=120) |
-| [Deno Course](https://www.youtube.com/watch?v=TQUy8ENesGY&ab_channel=freeCodeCamp.org) | ![_](https://progress-bar.dev/17/?title=01:06:50\/6:23:06&color=babaca&width=120) |
+| [Data Warehouse Fundamentals](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) |  ![_](https://progress-bar.dev/32/?title=lec.23\/72&color=babaca&width=120) |
+| [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![_](https://progress-bar.dev/26/?title=pg.175\/664&color=babaca&width=120) |
 |**Queue**||
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
 | [The Complete Guide for AWS CLI](https://www.youtube.com/watch?v=PWAnY-w1SGQ&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:00:59&color=babaca&width=120) |
 | [Eloquent JavaScript](https://eloquentjavascript.net/) | ![_](https://progress-bar.dev/0/?title=chap.1\/21&color=babaca&width=120) |
 | [Deploy a Twitter Bot with Tweepy, Docker and AWS](https://realpython.com/twitter-bot-python-tweepy/) | ![_](https://progress-bar.dev/0/?title=0\/100&color=babaca&width=120) |
+|**Stand by**||
+| [Deno Course](https://www.youtube.com/watch?v=TQUy8ENesGY&ab_channel=freeCodeCamp.org) | ![_](https://progress-bar.dev/17/?title=01:06:50\/6:23:06&color=babaca&width=120) |
 
 ## Completed Studies
 
