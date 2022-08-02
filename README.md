@@ -31,6 +31,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | Shawn Powers |
 [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | Andrew Brown |
 [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | Bill Laboon |
+| [Testing Airflow workflows](https://www.youtube.com/watch?v=ANJnYbLwLjE) | Bas Harenslak |
 
 ## Latest Blog Posts
 
