@@ -7,8 +7,10 @@ Shelf for studies on software development that are worth keeping and sharing.
 |Title|Progress|
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/54/?title=pg.385\/711&color=babaca&width=120) |
-| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/48/?title=09:00:25\/18:40:43&color=babaca&width=120) |
-| [Database Systems](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/0/?title=00:00:00\/17:07:41&color=babaca&width=120) |
+| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/53/?title=09:50:07\/18:40:43&color=babaca&width=120) |
+| Data Engineering with Python | ![_](https://progress-bar.dev/10/?title=pg.36\/345&color=babaca&width=120) |
+| 97 Things Every Data Engineer Should Know | ![_](https://progress-bar.dev/8/?title=pg.19\/222&color=babaca&width=120) |
+| [Database Systems](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/2/?title=00:29:11\/17:07:41&color=babaca&width=120) |
 |**Queue**||
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
 | [The Complete Guide for AWS CLI](https://www.youtube.com/watch?v=PWAnY-w1SGQ&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:00:59&color=babaca&width=120) |
@@ -22,7 +24,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Author
 |:---|:---|
-| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (140) | Mark Richards |
+| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (142) | Mark Richards |
 [The Pragmatic Programmer](https://github.com/PegasusWang/books-1/raw/master/software-development/The%20Pragmatic%20Programmer.pdf) | Andy Hunt and Dave Thomas |
 [Extreme Programming](http://www.extremeprogramming.org/index.html) | Don Wells |
 [Learn Git Branching](https://learngitbranching.js.org) | github.com/pcottle |
