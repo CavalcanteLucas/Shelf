@@ -7,7 +7,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 |Title|Progress|
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/54/?title=pg.385\/711&color=babaca&width=120) |
-| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/53/?title=09:50:07\/18:40:43&color=babaca&width=120) |
+| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/53/?title=09:59:17\/18:40:43&color=babaca&width=120) |
 | Data Engineering with Python | ![_](https://progress-bar.dev/10/?title=pg.36\/345&color=babaca&width=120) |
 | 97 Things Every Data Engineer Should Know | ![_](https://progress-bar.dev/8/?title=pg.19\/222&color=babaca&width=120) |
 | [Database Systems](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/2/?title=00:29:11\/17:07:41&color=babaca&width=120) |
