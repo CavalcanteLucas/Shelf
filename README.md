@@ -24,7 +24,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Author
 |:---|:---|
-| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (142) | Mark Richards |
+| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (143) | Mark Richards |
 [The Pragmatic Programmer](https://github.com/PegasusWang/books-1/raw/master/software-development/The%20Pragmatic%20Programmer.pdf) | Andy Hunt and Dave Thomas |
 [Extreme Programming](http://www.extremeprogramming.org/index.html) | Don Wells |
 [Learn Git Branching](https://learngitbranching.js.org) | github.com/pcottle |
