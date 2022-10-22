@@ -6,7 +6,6 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Progress|
 |:---|---:|
-| [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | ![5](https://progress-bar.dev/69/?title=12:57:21\/18:40:43&color=babaca&width=120) |
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/58/?title=pg.417\/711&color=babaca&width=120) |
 | Data Engineering with Python | ![_](https://progress-bar.dev/10/?title=pg.36\/345&color=babaca&width=120) |
 | 97 Things Every Data Engineer Should Know | ![_](https://progress-bar.dev/8/?title=pg.23\/222&color=babaca&width=120) |
@@ -32,6 +31,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | Sanjay Ghemawat et&#46;al |
 [Django Crash Course](https://www.scribd.com/document/459262375/Daniel-Roy-Greenfield-Audrey-Roy-Greenfield-Django-Crash-Course-2020-pdf) | Daniel Feldroy and Audrey Feldroy|
 [Two Scoops of Django](https://www.feldroy.com/books/two-scoops-of-django-3-x)| Daniel Roy Greenfeld and Audrey Roy Greenfeld |
+[Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | Charles Severance |
 [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) | John Smilga |
 [Understanding JavaScript Promises](https://cdn.xgqfrms.xyz/promise/understanding-javascript-promises.pdf) | Nicholas C. Zakas |
 [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | Shawn Powers |
