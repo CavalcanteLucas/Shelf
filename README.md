@@ -6,7 +6,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Progress|
 |:---|---:|
-| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/58/?title=pg.426\/711&color=babaca&width=120) |
+| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/58/?title=pg.427\/711&color=babaca&width=120) |
 | Data Engineering with Python | ![_](https://progress-bar.dev/10/?title=pg.36\/345&color=babaca&width=120) |
 | 97 Things Every Data Engineer Should Know | ![_](https://progress-bar.dev/8/?title=pg.23\/222&color=babaca&width=120) |
 | Fundamentals of Data Engineering | ![_](https://progress-bar.dev/3/?title=pg.18\/544&color=babaca&width=120) |
