@@ -28,6 +28,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 || [Data Warehouse Fundamentals](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) | Alan Simon |
 || [Testing Airflow workflows](https://www.youtube.com/watch?v=ANJnYbLwLjE) | Bas Harenslak |
 || [Data Build Tool (dbt)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) | Kahan Data Solutions |
+|| [Data Engineering](https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO) | Kahan Data Solutions |
 |**Django**||
 || [Django Crash Course](https://www.scribd.com/document/459262375/Daniel-Roy-Greenfield-Audrey-Roy-Greenfield-Django-Crash-Course-2020-pdf) | Daniel Feldroy and Audrey Feldroy|
 || [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | Charles Severance |
