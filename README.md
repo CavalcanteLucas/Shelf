@@ -7,10 +7,10 @@ Shelf for studies on software development that are worth keeping and sharing.
 |Title|Progress|
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/62/?title=pg.479\/711&color=babaca&width=120) |
+| [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/29/?title=05:03:29\/17:07:41&color=babaca&width=120) |
 | Data Engineering with Python | ![_](https://progress-bar.dev/10/?title=pg.36\/345&color=babaca&width=120) |
 | 97 Things Every Data Engineer Should Know | ![_](https://progress-bar.dev/8/?title=pg.23\/222&color=babaca&width=120) |
 | Fundamentals of Data Engineering | ![_](https://progress-bar.dev/3/?title=pg.18\/544&color=babaca&width=120) |
-| [Database Systems](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/2/?title=00:50:01\/17:07:41&color=babaca&width=120) |
 |**Queue**||
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
 | [The Complete Guide for AWS CLI](https://www.youtube.com/watch?v=PWAnY-w1SGQ&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:00:59&color=babaca&width=120) |
