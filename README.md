@@ -20,8 +20,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 |[Computer Networking](https://learn.udacity.com/courses/ud436)||
 |[Computability, Complexity & Algorithms](https://learn.udacity.com/courses/ud061)||
 |[Software Architecture & Design](https://learn.udacity.com/courses/ud821)||
-|[Compilers: Theory and Practice](https://learn.udacity.com/courses/ud168)||
-
+|[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs)
 ## Completed Studies
 
 ||Title|Author|
