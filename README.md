@@ -19,7 +19,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 |[Computability, Complexity & Algorithms](https://learn.udacity.com/courses/ud061)||
 |[Software Architecture & Design](https://learn.udacity.com/courses/ud821)||
 |[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs)
-|[Designing Data-Intensive Applications]||
+|Designing Data-Intensive Applications||
 ## Completed Studies
 
 ||Title|Author|
