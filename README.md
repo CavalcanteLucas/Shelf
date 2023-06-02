@@ -8,8 +8,6 @@ Shelf for studies on software development that are worth keeping and sharing.
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/62/?title=pg.443\/711&color=babaca&width=120) |
 | [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/38/?title=07:09:35\/17:07:41&color=babaca&width=120) |
-| Data Engineering with Python | ![_](https://progress-bar.dev/10/?title=pg.36\/345&color=babaca&width=120) |
-| 97 Things Every Data Engineer Should Know | ![_](https://progress-bar.dev/8/?title=pg.23\/222&color=babaca&width=120) |
 | Fundamentals of Data Engineering | ![_](https://progress-bar.dev/3/?title=pg.18\/544&color=babaca&width=120) |
 |**Queue**||
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
@@ -21,6 +19,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 |[Computability, Complexity & Algorithms](https://learn.udacity.com/courses/ud061)||
 |[Software Architecture & Design](https://learn.udacity.com/courses/ud821)||
 |[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs)
+|[Designing Data-Intensive Applications]||
 ## Completed Studies
 
 ||Title|Author|
