@@ -10,9 +10,9 @@ Shelf for studies on software development that are worth keeping and sharing.
 | [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/38/?title=07:09:35\/17:07:41&color=babaca&width=120) |
 | Fundamentals of Data Engineering | ![_](https://progress-bar.dev/3/?title=pg.18\/544&color=babaca&width=120) |
 |**Queue**||
+| [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![_](https://progress-bar.dev/26/?title=pg.175\/664&color=babaca&width=120) |
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
 | [The Complete Guide for AWS CLI](https://www.youtube.com/watch?v=PWAnY-w1SGQ&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:00:59&color=babaca&width=120) |
-| [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![_](https://progress-bar.dev/26/?title=pg.175\/664&color=babaca&width=120) |
 |**Stand by**||
 |[Database Systems Concepts & Design](https://learn.udacity.com/courses/ud150)||
 |[Computer Networking](https://learn.udacity.com/courses/ud436)||
