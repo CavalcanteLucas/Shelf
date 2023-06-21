@@ -6,7 +6,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Progress|
 |:---|---:|
-| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/65/?title=pg.468\/711&color=babaca&width=120) |
+| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/66/?title=pg.470\/711&color=babaca&width=120) |
 | [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/38/?title=07:02:21\/17:07:41&color=babaca&width=120) |
 | Fundamentals of Data Engineering | ![_](https://progress-bar.dev/3/?title=pg.18\/544&color=babaca&width=120) |
 |**Queue**||
