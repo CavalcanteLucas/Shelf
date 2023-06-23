@@ -7,7 +7,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 |Title|Progress|
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/66/?title=pg.470\/711&color=babaca&width=120) |
-| [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/38/?title=07:02:21\/17:07:41&color=babaca&width=120) |
+| [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/38/?title=07:14:41\/17:07:41&color=babaca&width=120) |
 |[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs) | ![_](https://progress-bar.dev/0/?title=00:00:00\/07:01:39&color=babaca&width=120) |
 |**Queue**||
 | [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![_](https://progress-bar.dev/26/?title=pg.175\/664&color=babaca&width=120) |
