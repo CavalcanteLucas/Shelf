@@ -8,7 +8,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/68/?title=pg.485\/711&color=babaca&width=120) |
 | [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/42/?title=07:14:41\/17:07:41&color=babaca&width=120) |
-|[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs) | ![_](https://progress-bar.dev/7/?title=00:29:45\/07:01:39&color=babaca&width=120) |
+|[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs) | ![_](https://progress-bar.dev/11/?title=00:47:11\/07:01:39&color=babaca&width=120) |
 |**Queue**||
 | [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![_](https://progress-bar.dev/26/?title=pg.175\/664&color=babaca&width=120) |
 | Fundamentals of Data Engineering | ![_](https://progress-bar.dev/3/?title=pg.18\/544&color=babaca&width=120) |
