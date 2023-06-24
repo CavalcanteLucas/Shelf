@@ -6,7 +6,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 |Title|Progress|
 |:---|---:|
-| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/68/?title=pg.484\/711&color=babaca&width=120) |
+| [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/68/?title=pg.485\/711&color=babaca&width=120) |
 | [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/42/?title=07:14:41\/17:07:41&color=babaca&width=120) |
 |[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs) | ![_](https://progress-bar.dev/7/?title=00:29:45\/07:01:39&color=babaca&width=120) |
 |**Queue**||
@@ -24,6 +24,8 @@ Shelf for studies on software development that are worth keeping and sharing.
 
 ||Title|Author|
 |:---|:---|:---|
+|**Django**||
+|| [What Makes Python Awesome](https://pyvideo.org/pycon-us-2013/keynote-3.html) | Raymond Hettinger |
 |**Data Engineering**||
 || [Data Warehouse Fundamentals](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) | Alan Simon |
 || [Testing Airflow workflows](https://www.youtube.com/watch?v=ANJnYbLwLjE) | Bas Harenslak |
