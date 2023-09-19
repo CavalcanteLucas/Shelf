@@ -8,8 +8,8 @@ Shelf for studies on software development that are worth keeping and sharing.
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/74/?title=pg.528\/711&color=babaca&width=120) |
 | [Database Systems - Cornell University Course](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/42/?title=07:14:41\/17:07:41&color=babaca&width=120) |
-|[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs) | ![_](https://progress-bar.dev/32/?title=02:16:36\/07:01:39&color=babaca&width=120) |
 |**Queue**||
+|[Django Rest Framework](https://www.youtube.com/watch?v=c708Nf0cHrs&ab_channel=CodingEntrepreneurs) | ![_](https://progress-bar.dev/32/?title=02:16:36\/07:01:39&color=babaca&width=120) |
 | [Python Cookbook](https://github.com/CavalcanteLucas/cookbook/blob/master/Python_Cookbook_3rd_Edition.pdf) | ![_](https://progress-bar.dev/26/?title=pg.175\/664&color=babaca&width=120) |
 | Fundamentals of Data Engineering | ![_](https://progress-bar.dev/3/?title=pg.18\/544&color=babaca&width=120) |
 |[Deploying Full Stack App onto AWS](https://www.youtube.com/watch?v=NjYsXuSBZ5U&t=145&ab_channel=SanjeevThiyagarajan) | ![_](https://progress-bar.dev/0/?title=0:00:00\/1:42:39&color=babaca&width=120)|
@@ -40,7 +40,7 @@ Shelf for studies on software development that are worth keeping and sharing.
 |**Meta**||
 || [Extreme Programming](http://www.extremeprogramming.org/index.html) | Don Wells |
 || [The Pragmatic Programmer](https://github.com/PegasusWang/books-1/raw/master/software-development/The%20Pragmatic%20Programmer.pdf) | Andy Hunt and Dave Thomas |
-|**Ops & Architecture**||
+|**Ops & Arch**||
 || [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | Andrew Brown |
 || [Learn Git Branching](https://learngitbranching.js.org) | github.com/pcottle |
 || [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | Shawn Powers |
