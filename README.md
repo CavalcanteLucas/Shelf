@@ -50,13 +50,15 @@ Shelf for studies on software development that are worth keeping and sharing.
 || [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | Sanjay Ghemawat et&#46;al |
 || [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | Bill Laboon |
 
-## Latest Blog Posts
+## Blog Posts
 
 | Title |
 |:---|
 |[Sustainable notifications with react-redux-api-tools](https://labcodes.com.br/blog/en-us/development/messaging-with-react-redux-api-tools/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 1](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-1/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 2](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-2/)|
+
+## Articles
 
 ---
 
