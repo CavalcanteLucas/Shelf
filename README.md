@@ -28,28 +28,29 @@ Shelf for studies on software development that are worth keeping and sharing.
 |**Python**||
 || [What Makes Python Awesome](https://pyvideo.org/pycon-us-2013/keynote-3.html) | Raymond Hettinger |
 || [Inside the Python GIL](https://www.youtube.com/watch?v=ph374fJqFPE&list=PLKTT4cKtfM9HVQMZoAmkQrCQ1G89mydDl&index=40&ab_channel=DavidBeazley)| David Beazley |
-|**Data Engineering**||
+|**Data**||
 || [Testing Airflow workflows](https://www.youtube.com/watch?v=ANJnYbLwLjE) | Bas Harenslak |
 || [Data Build Tool (dbt)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) | Kahan Data Solutions |
 |**Django**||
 || [Django Crash Course](https://www.scribd.com/document/459262375/Daniel-Roy-Greenfield-Audrey-Roy-Greenfield-Django-Crash-Course-2020-pdf) | Daniel Feldroy and Audrey Feldroy|
 || [Django For Everybody](https://www.youtube.com/watch?v=o0XbHvKxw7Y&ab_channel=freeCodeCamp.org) | Charles Severance |
 || [Two Scoops of Django](https://www.feldroy.com/books/two-scoops-of-django-3-x)| Daniel Roy Greenfeld and Audrey Roy Greenfeld |
-|**JavaScript & JS Frameworks**||
+|**JavaScript**||
 || [Understanding JavaScript Promises](https://cdn.xgqfrms.xyz/promise/understanding-javascript-promises.pdf) | Nicholas C. Zakas |
 || [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE) | John Smilga |
 |**Meta**||
 || [Extreme Programming](http://www.extremeprogramming.org/index.html) | Don Wells |
 || [The Pragmatic Programmer](https://github.com/PegasusWang/books-1/raw/master/software-development/The%20Pragmatic%20Programmer.pdf) | Andy Hunt and Dave Thomas |
-|**Ops & Arch**||
+|**Cloud**||
 || [AWS Certified Cloud Practitioner Training](https://www.youtube.com/watch?v=3hLmDS179YE&ab_channel=freeCodeCamp.org) | Andrew Brown |
+|| [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | Sanjay Ghemawat et&#46;al |
+|**Linux & Git**||
 || [Learn Git Branching](https://learngitbranching.js.org) | github.com/pcottle |
 || [Linux Server Course - System Configuration and Operation](https://www.youtube.com/watch?v=WMy3OzvBWc0&ab_channel=freeCodeCamp.org) | Shawn Powers |
-|| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (143) | Mark Richards |
 |**Misc**||
 || [Functional Design Patterns](https://www.youtube.com/watch?v=srQt1NAHYC0/) | Scott Wlaschin |
-|| [The Google File System](https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) | Sanjay Ghemawat et&#46;al |
 || [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | Bill Laboon |
+|| [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (143) | Mark Richards |
 
 ## Blog Posts
 
