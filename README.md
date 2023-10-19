@@ -27,8 +27,8 @@ Shelf for studies on software development that are worth keeping and sharing.
 |:---|:---|:---|
 |**Python**||
 || [What Makes Python Awesome](https://pyvideo.org/pycon-us-2013/keynote-3.html) | Raymond Hettinger |
+|| [Inside the Python GIL](https://www.youtube.com/watch?v=ph374fJqFPE&list=PLKTT4cKtfM9HVQMZoAmkQrCQ1G89mydDl&index=40&ab_channel=DavidBeazley)| David Beazley |
 |**Data Engineering**||
-|| [Data Warehouse Fundamentals](https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/) | Alan Simon |
 || [Testing Airflow workflows](https://www.youtube.com/watch?v=ANJnYbLwLjE) | Bas Harenslak |
 || [Data Build Tool (dbt)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) | Kahan Data Solutions |
 |**Django**||
