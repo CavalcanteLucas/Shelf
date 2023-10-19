@@ -1,6 +1,6 @@
 # Lucas' Shelf
 
-Shelf for studies on software development that are worth keeping and sharing.
+Shelf for studies on software/data engineering, and web development that are worth keeping and sharing.
 
 ## Current Studies
 
