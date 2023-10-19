@@ -59,6 +59,8 @@ Shelf for studies on software development that are worth keeping and sharing.
 |[Emulate remote servers for web applications with VirtualBox - Part 1](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-1/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 2](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-2/)|
 
+---
+
 ```bash
 Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 ```
