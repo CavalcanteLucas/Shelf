@@ -60,6 +60,57 @@ Shelf for studies on software/data engineering, and web development that are wor
 |[Emulate remote servers for web applications with VirtualBox - Part 1](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-1/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 2](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-2/)|
 
+## Journal Publications
+1.
+ CAVALCANTE, LUCAS C. P.; ROMMEL, SIMON ; DINIS, RUI ; JUNIOR, L. G. Q. SILVEIRA ; SILVEIRA, L. F. Q. ; MONROY, IDELFONSO TAFUR . Performance Evaluation of Wavelet-Coded OFDM on a 4.9 Gb/s W-Band Radio-Over-Fiber Link. JOURNAL OF LIGHTWAVE TECHNOLOGY, v. 35, p. 2803-2809, 2017.
+Citações:11|11
+
+2.
+ CAVALCANTE, LUCAS; ROMMEL, SIMON ; RODRIGUEZ, SEBASTIAN ; VEGAS OLMOS, J. J. ; MONROY, IDELFONSO T. . On the capacity of radio-over-fiber links at the W-band. OPTICAL AND QUANTUM ELECTRONICS, v. 48, p. 279, 2016.
+Citações:8|9
+
+3.
+ ROMMEL, SIMON ; CAVALCANTE, LUCAS C. P. ; QUINTERO, ALEXANDER G. ; MISHRA, ARVIND K. ; VEGAS OLMOS, J. J. ; MONROY, IDELFONSO TAFUR . W-band photonic-wireless link with a Schottky diode envelope detector and bend insensitive fiber. OPTICS EXPRESS, v. 24, p. 11312, 2016.
+Citações:17|18
+
+4.
+ CAVALCANTE, LUCAS; SILVEIRA, Luiz F. Q. ; ROMMEL, SIMON ; VEGAS OLMOS, J. J. ; TAFUR MONROY, I. . Performance analysis of wavelet channel coding in COST207-based channel models on simulated radio-over-fiber systems at the W-band. OPTICAL AND QUANTUM ELECTRONICS, v. 48, p. 28, 2016.
+
+## Conference Presentations
+
+1.
+ CAVALCANTE, LUCAS; SILVEIRA, Luiz F. Q. ; SILVEIRA JR., L. G. Q. ; Rui Dinis ; J.J. Vegas Olmos ; I. T. Monroy . Wavelet-Coded OFDM for Next Generation Mobile Communications. In: IEEE Vehicular Technology Communications, 2016, Montreal. VTC 2016 Montreal, Recent Results, 2016.
+
+2.
+ROMMEL, SIMON ; CAVALCANTE, LUCAS COSTA PEREIRA ; OLMOS, J. J. VEGAS ; MONROY, IDELFONSO TAFUR ; QUINTERO, ALEXANDER GALVIS . Channel characterization for high-speed W-band wireless communication links. In: 2015 OptoElectronics and Communications Conference (OECC), 2015, Shanghai. 2015 Opto-Electronics and Communications Conference (OECC), 2015. p. 1.
+
+3.
+ROMMEL, SIMON ; CAVALCANTE, LUCAS COSTA PEREIRA ; OLMOS, J. J. VEGAS ; MONROY, IDELFONSO TAFUR ; MISHRA, ARVIND K. . Requirements for bend insensitive fiber in millimeter-wave fronthaul systems. In: 2015 International Topical Meeting on Microwave Photonics (MWP), 2015, Paphos. 2015 International Topical Meeting on Microwave Photonics (MWP), 2015. p. 1.
+
+4.
+Rommel, S. ; CAVALCANTE, LUCAS C. P. ; J.J. Vegas Olmos ; I. T. Monroy . Microwave Photonics Techniques Supporting Flexible Wireless Communications Links. In: Progress In Electromagnetics Research Symposium, 2015, Prague. Proceedings of Progress In Electromagnetics Research Symposium, 2015. p. 2P8b-1056.
+
+5.
+ROMMEL, SIMON ; CAVALCANTE, LUCAS C. ; VEGAS OLMOS, JUAN JOSE ; TAFUR MONROY, IDELFONSO . Low RF Complexity Photonically Enabled Indoor and Building-to-Building W-Band Wireless Link. In: Asia Communications and Photonics Conference, 2015, Hong Kong. Asia Communications and Photonics Conference 2015. Washington: OSA, 2015. p. AM1B.7.
+
+6.
+CAVALCANTE, L. C. P.; J.J. Vegas Olmos ; I. T. Monroy . High Capacity Radio-over-Fiber Links at 75-300 GHz. In: Asian Conference on Photonics, 2014, Shanghai. Proceedings of Asian Conference on Photonics, 2014. p. ATh3A.157.
+
+7.
+CAVALCANTE, L. C. P.; J.J. Vegas Olmos ; I. T. Monroy . High Capacity Hybrid Optical Fiber-Wireless Links in 75-300 GHz Band. In: IEEE International Conference on Ultra-Wideband, 2014, Paris. Proceedings of IEEE International Conference on Ultra-Wideband, 2014. p. 185-190.
+
+8.
+CAVALCANTE, L. C. P.; FONTES, Aluísio I. R. ; SILVEIRA, Luiz F. Q. . Análise de Desempenho da Codificação Wavelet em Canais Seletivos em Frequência. In: Simpósio Brasileiro de Telecomunicações, 2013, Fortaleza. SBrT 2013, 2013.
+
+9.
+THOMAZ, S. ; FERNANDES, C. ; CAVALCANTE, L. C. P. ; GONCALVES, L. . H-EDUC: A LOW COST PLATAFORM FOR EDUCATIONAL ROBOTICS. In: Workshop in Applied Robotics and Automation, 2012, Bauru-SP. Robocontrol 2012, 2012.
+
+10.
+FONTES, Aluísio I. R. ; CAVALCANTE, L. C. P. ; SILVEIRA, Luiz F. Q. . Novel Automatic Modulation Classification using Correntropy Coefficient. In: Simpósio Brasileiro de Telecomunicações, 2012, Brasília-DF. SBrT 2012, 2012.
+
+1.
+Rodrigues, V ; CAVALCANTE, LUCAS ; PEREIRA, M. B. P. N. ; Fabio Luporini ; István Reguly ; GORMAN, G. J. ; Samuel Xavier de Souza . GPU Support for Automatic Generation of Finite-Differences Stencil Kernels. 2019. (Apresentação de Trabalho/Conferência ou palestra).
+
 ---
 
 ```bash
