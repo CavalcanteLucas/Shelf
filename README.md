@@ -79,7 +79,6 @@ Shelf for studies on software/data engineering, and web development that are wor
 |:---|
 ||
 | Rodrigues, V ; CAVALCANTE, LUCAS ; PEREIRA, M. B. P. N. ; Fabio Luporini ; István Reguly ; GORMAN, G. J. ; Samuel Xavier de Souza . GPU Support for Automatic Generation of Finite-Differences Stencil Kernels. 2019.|
-||
 | CAVALCANTE, LUCAS; SILVEIRA, Luiz F. Q. ; SILVEIRA JR., L. G. Q. ; Rui Dinis ; J.J. Vegas Olmos ; I. T. Monroy . Wavelet-Coded OFDM for Next Generation Mobile Communications. In: IEEE Vehicular Technology Communications, 2016, Montreal. VTC 2016 Montreal, Recent Results, 2016.|
 ||
 | ROMMEL, SIMON ; CAVALCANTE, LUCAS COSTA PEREIRA ; OLMOS, J. J. VEGAS ; MONROY, IDELFONSO TAFUR ; QUINTERO, ALEXANDER GALVIS . Channel characterization for high-speed W-band wireless communication links. In: 2015 OptoElectronics and Communications Conference (OECC), 2015, Shanghai. 2015 Opto-Electronics and Communications Conference (OECC), 2015. p. 1.|
