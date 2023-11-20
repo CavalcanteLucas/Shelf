@@ -67,6 +67,7 @@ Shelf for studies on software/data engineering, and web development that are wor
 | Journal Publications |
 |:---|
 ||
+||
 |CAVALCANTE, LUCAS C. P.; ROMMEL, SIMON ; DINIS, RUI ; JUNIOR, L. G. Q. SILVEIRA ; SILVEIRA, L. F. Q. ; MONROY, IDELFONSO TAFUR . Performance Evaluation of Wavelet-Coded OFDM on a 4.9 Gb/s W-Band Radio-Over-Fiber Link. JOURNAL OF LIGHTWAVE TECHNOLOGY, v. 35, p. 2803-2809, 2017.|
 ||
 |CAVALCANTE, LUCAS; ROMMEL, SIMON ; RODRIGUEZ, SEBASTIAN ; VEGAS OLMOS, J. J. ; MONROY, IDELFONSO T. . On the capacity of radio-over-fiber links at the W-band. OPTICAL AND QUANTUM ELECTRONICS, v. 48, p. 279, 2016.|
@@ -77,6 +78,7 @@ Shelf for studies on software/data engineering, and web development that are wor
 
 | Conference Presentations |
 |:---|
+||
 ||
 | Rodrigues, V ; CAVALCANTE, LUCAS ; PEREIRA, M. B. P. N. ; Fabio Luporini ; István Reguly ; GORMAN, G. J. ; Samuel Xavier de Souza . GPU Support for Automatic Generation of Finite-Differences Stencil Kernels. 2019.|
 ||
