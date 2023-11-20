@@ -21,6 +21,7 @@ Shelf for studies on software/data engineering, and web development that are wor
 |[Computability, Complexity & Algorithms](https://learn.udacity.com/courses/ud061)||
 |[Software Architecture & Design](https://learn.udacity.com/courses/ud821)||
 |Designing Data-Intensive Applications||
+
 ## Completed Studies
 
 ||Title|Author|
@@ -52,15 +53,19 @@ Shelf for studies on software/data engineering, and web development that are wor
 || [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | Bill Laboon |
 || [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (143) | Mark Richards |
 
+
 ## Blog Posts
 
-| Title |
+| Blog Posts |
 |:---|
 |[Sustainable notifications with react-redux-api-tools](https://labcodes.com.br/blog/en-us/development/messaging-with-react-redux-api-tools/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 1](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-1/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 2](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-2/)|
 
 ## Journal Publications
+
+| Journal Publications |
+|:---|
 1.
  CAVALCANTE, LUCAS C. P.; ROMMEL, SIMON ; DINIS, RUI ; JUNIOR, L. G. Q. SILVEIRA ; SILVEIRA, L. F. Q. ; MONROY, IDELFONSO TAFUR . Performance Evaluation of Wavelet-Coded OFDM on a 4.9 Gb/s W-Band Radio-Over-Fiber Link. JOURNAL OF LIGHTWAVE TECHNOLOGY, v. 35, p. 2803-2809, 2017.
 Citações:11|11
