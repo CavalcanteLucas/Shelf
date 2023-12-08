@@ -2,7 +2,7 @@
 
 Shelf for studies on software/data engineering, and web development that are worth keeping and sharing.
 
-## Current Studies
+## Current
 
 |Title|Progress|
 |:---|---:|
@@ -22,10 +22,12 @@ Shelf for studies on software/data engineering, and web development that are wor
 |[Software Architecture & Design](https://learn.udacity.com/courses/ud821)||
 |Designing Data-Intensive Applications||
 
-## Completed Studies
+## Recommendations
 
 ||Title|Author|
 |:---|:---|:---|
+|**Elixir**||
+|| [Elixir Programming Introduction](https://www.youtube.com/watch?v=-lgtb-YSUWE&ab_channel=CalebCurry) | Caleb Curry |
 |**Python**||
 || [What Makes Python Awesome](https://pyvideo.org/pycon-us-2013/keynote-3.html) | Raymond Hettinger |
 || [Inside the Python GIL](https://www.youtube.com/watch?v=ph374fJqFPE&list=PLKTT4cKtfM9HVQMZoAmkQrCQ1G89mydDl&index=40&ab_channel=DavidBeazley)| David Beazley |
