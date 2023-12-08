@@ -2,7 +2,7 @@
 
 Shelf for studies on software/data engineering, and web development that are worth keeping and sharing.
 
-## Current
+## Current Studies
 
 |Title|Progress|
 |:---|---:|
