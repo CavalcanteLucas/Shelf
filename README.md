@@ -7,7 +7,7 @@ Shelf for studies on software/data engineering, and web development that are wor
 |Title|Progress|
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/88/?title=pg.633\/711&color=babaca&width=120) |
-| [Database Systems - Cornell University Course (Part I)](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/76/?title=13:45:00\/17:07:41&color=babaca&width=120) |
+| [Database Systems - Cornell University Course (Part I)](https://www.youtube.com/watch?v=4cWkVbC2bNE) | ![_](https://progress-bar.dev/80/?title=13:45:00\/17:07:41&color=babaca&width=120) |
 | [Database Systems - Cornell University Course (Part II)](https://www.youtube.com/watch?v=lxEdaElkQhQ&ab_channel=freeCodeCamp.org) |  ![_](https://progress-bar.dev/0/?title=0:00:00\/8:15:07&color=babaca&width=120) |
 | [Fundamentals of Data Engineering](https://github.com/CavalcanteLucas/Shelf/blob/main/books/fundamentals-of-data-engineering.pdf) | ![_](https://progress-bar.dev/8/?title=pg.35\/406&color=babaca&width=120) |
 |**Queue**||
