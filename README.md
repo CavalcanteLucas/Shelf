@@ -3,7 +3,7 @@
 Shelf for studies on software/data engineering, and web development that are worth keeping and sharing.
 
 ## Current Studies
-1
+
 |Title|Progress|
 |:---|---:|
 | [Fluent Python](https://github.com/fluentpython/example-code-2e) | ![_](https://progress-bar.dev/88/?title=pg.633\/711&color=babaca&width=120) |
