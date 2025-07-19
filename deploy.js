@@ -1,3 +1,3 @@
 function greet() {
-    document.getElementById("message").textContent = "Hi!";
+    document.getElementById("message").textContent = "Hello!";
 }
