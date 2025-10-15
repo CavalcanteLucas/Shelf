@@ -56,7 +56,7 @@ Shelf for studies on software/data engineering, and web development that are wor
 || [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | Bill Laboon |
 || [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (143) | Mark Richards |
 
-## By the Author
+## By the author
 ### Blog Posts
 
 | Title |
