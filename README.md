@@ -56,8 +56,8 @@ Shelf for studies on software/data engineering, and web development that are wor
 || [Web3 Blockchain Fundamentals MOOC](https://www.youtube.com/watch?v=y8YyZELnVaw&list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J&index=1&ab_channel=Web3Foundation) | Bill Laboon |
 || [Software Architecture Monday](https://www.youtube.com/playlist?list=PLdsOZAx8I5umhnn5LLTNJbFgwA3xbycar) (143) | Mark Richards |
 
-
-## Blog Posts
+## By the Author
+### Blog Posts
 
 | Title |
 |:---|
@@ -65,7 +65,7 @@ Shelf for studies on software/data engineering, and web development that are wor
 |[Emulate remote servers for web applications with VirtualBox - Part 1](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-1/)|
 |[Emulate remote servers for web applications with VirtualBox - Part 2](https://labcodes.com.br/blog/en-us/development/emulate-remote-servers-web-applications-virtualbox-part-2/)|
 
-## Scientific production
+### Scientific production
 
 | Journal Publications |
 |:---|
